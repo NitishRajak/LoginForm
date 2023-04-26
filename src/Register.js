@@ -204,7 +204,7 @@ const Register = () => {
               onFocus={() => setMatchFocus(true)}
               onBlur={() => setMatchFocus(false)}
             />
-            //TEst
+
             <p
               id="confirmnote"
               className={
